@@ -1,2 +1,2 @@
-# lystra-ai-landing
+# lystra-ai-placeholder
 Placeholder page for Lystra AI
